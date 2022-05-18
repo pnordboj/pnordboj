@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact: I use the capslock button instead of holding shift...  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pnordboj&&style=flat-square" align="center" />
-</div>
+- <img src="https://komarev.com/ghpvc/?username=pnordboj&&style=flat-square" align="center" />
 
 <br/>  
 
