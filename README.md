@@ -49,7 +49,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 </div>
 
-</td>
+</td></tr></table>
 
 <br/>  
 
