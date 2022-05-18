@@ -12,7 +12,10 @@
   
 
 - ⚡ Fun fact: I use the capslock button instead of holding shift...  
-  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pnordboj&&style=flat-square" align="center" />
+</div>
 
 <br/>  
 
@@ -72,26 +75,7 @@
   
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnordboj&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pnordboj&&style=flat-square" align="center" />
-</div>  
-  
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
 
 ## Hi there 👋
 
