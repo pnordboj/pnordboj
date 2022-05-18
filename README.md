@@ -70,7 +70,7 @@
 
 ## Github Stats  
   
-[![Pnordboj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnordboj)](https://github.com/pnordboj/github-readme-stats)
+[![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnordboj)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
