@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Patrick, a Frontend Developer student 👨‍💻 since 2021 and been working full time as a IT-Consultant since 2018</div>  
+### <div align="center">I'm Patrick, a Frontend Developer student💻 since 2021 
+### Been working full time as a IT-Consultant since 2018</div>  
   
 
 - 🔭 I’m currently working on a mobile app with 
