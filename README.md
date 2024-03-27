@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on: A new mobile app<br>
+🔭 I’m currently working on: Different AI projects, mastering python.<br>
 🌱 I’m currently learning: Different ways to utilize AI to benefit my workflow or other projects<br>
-Currently learning svulte, but only just begun trying it out!<br>
+Currently learning svelte, but only just begun trying it out!<br>
 Also learning react-native for mobile development, but currently using ionic with capacitor and angular.js.<br>
 But will be switching to React-Native soon, maybe.<br>
 <br>Currently working as a full time fullstack developer since 2022<br>
