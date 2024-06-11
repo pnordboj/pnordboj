@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Different AI projects, mastering python.<br>
+🔭 I’m currently working on: Different AI projects, mastering python and C#.<br>
 🌱 I’m currently learning: Different ways to utilize AI to benefit my workflow or other projects<br>
 Currently learning svelte, but only just begun trying it out!<br>
 Also learning react-native for mobile development, but currently using ionic with capacitor and angular.js.<br>
