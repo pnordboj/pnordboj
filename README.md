@@ -4,8 +4,8 @@
 Currently learning svelte, but only just begun trying it out!<br>
 Also learning react-native for mobile development, but currently using ionic with capacitor and angular.js.<br>
 But will be switching to React-Native soon, maybe.<br>
-<br>Currently working as a full time fullstack developer since 2022<br>
-<br>Studying Frontend Development at Noroff since 2021!
+
+<br>Graduated Frontend Development and Backend Development at Noroff!
 
 
 ## 🌐 Socials:
